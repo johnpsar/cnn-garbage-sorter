@@ -1,5 +1,5 @@
-# cvv-garbage-sorter
-CVV Garbage Sorter
+# cnn-garbage-sorter
+CNN Garbage Sorter
 
 To create a virtual environment and install dependencies:
 ./virtual_env_linux.sh
