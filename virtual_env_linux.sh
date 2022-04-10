@@ -6,3 +6,5 @@ pip install layers
 pip install matplotlib
 pip install numpy
 pip install pygame
+pip install pyserial
+pip install pillow
