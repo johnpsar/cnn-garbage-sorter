@@ -22,7 +22,7 @@ pygame.image.save(img, "./capture.jpg")  # save image as capture.jpg
 
 image_size = (500, 500)
 
-model = keras.models.load_model('./trained_model_12.h5')  # load trained model
+model = keras.models.load_model('./trained_model.h5')  # load trained model
 
 img = keras.preprocessing.image.load_img(
     "./capture.jpg", target_size=image_size
